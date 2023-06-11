@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>COGAN</title>
+</head>
+<body style="background-color:darkgrey;">
+   <center>
+  <h1>Cowok Ganteng</h1>
+   <h3 style="background-color:grey;";>Contoh Cowok Ganteng</h3>
+    <p style="background-color:lavender;color:darkblue;"> Akan saya kasih tau contohnya orang ganteng.</p>
+     <img src="p1.png" height="300" width="300" usemap="#posisi">
+      <map name="posisi">
+       <area shape="rect" coords="34,44,270,350"  href="p1.png">
+        </center>
+  
+        
+      </map>
+<h2 style="background-color:grey;">*) Perkenalan </h2>
+ <p style="background-color:lavender;color:darkblue;"> Nama:Achmad Ramadhani
+  <p style="background-color:lavender;color:darkblue;">Lahir: di kota Malang pada tanggal 28-10-2003. </p>
+    <p style="background-color:lavender;color:darkblue;">Alamat: Jalan, Mutiara No.67, Baciro, Gondokusuman, Kota Yogyakarta </p>
+</body>
+</html>
